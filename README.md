@@ -68,7 +68,7 @@ node .
 
 ## Additional Help
 
-If youre still confused and need more assistance join the **[Support Server](https://discord.gg/NT2NujG "Support Server")**
+If you're still confused and need more assistance join the **[Support Server](https://discord.gg/NT2NujG "Support Server")**
 
 ## Credits
 
