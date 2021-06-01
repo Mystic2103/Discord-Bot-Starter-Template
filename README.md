@@ -2,7 +2,7 @@
  <br>
   <a href="https://github.com/Mystic2103"><img src="https://cdn.discordapp.com/attachments/845378017206206564/849400625082662975/readmd.PNG"></a>
   <br>
-  Taro - The Future of Music on Discord
+  Template Bot
   <br>
 </h1>
 
@@ -39,7 +39,7 @@ If you liked this repository, feel free to leave a star ⭐ and follow me, it ac
 
 ### Pre-requisites
 
-- You first have to make the bot application using the **[Discord Developer](https://discord.com/developers "Discord")** and add it to your server.
+- You first have to make the bot application using the **[Discord Developer Portal](https://discord.com/developers "Discord")** and add it to your server.
 -If you've already completed this step, move on to the Installation section.
 
 ## Installation
